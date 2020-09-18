@@ -13,9 +13,8 @@ author: Huy
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Contact: "contact"
-  Author's home: "https://github.com/HuyVu109"
+ Contact: "contact"
+ Home: "home"
 
 # --- Logo --- #
 
